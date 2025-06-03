@@ -152,8 +152,3 @@ Muestra una lista de llaves favoritas y permite agregar/eliminar.
 - Se siguen principios SOLID y se usa Git Flow como convención de ramas.
 
 ---
-
-## 👥 Créditos
-
-- Desarrollado por: **Daniel**
-- Universidad Javeriana 🦁
